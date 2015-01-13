@@ -10,10 +10,6 @@
     "currency_code": "USD",
     "availability": "in stock",
     "standard_price": 4698.00,
-    "sale_start_date": 2015-1-13T00:00:00,
-    "sale_end_date": 2015-3-30T00:00:00
-    "gender": "unisex",
-
     "images": ["http://www.yilongonline.com/products/6x9-persian-silk-rug/handmade-silk-rug-1028.html",
                "http://www.yilongonline.com/products/6x9-persian-silk-rug/handmade-silk-rug-1028.html"]
 
